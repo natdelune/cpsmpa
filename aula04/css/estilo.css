@@ -1,0 +1,28 @@
+div {
+    background-color: lightpink;   
+    border: 2px solid red;
+    border-style: dotted;
+}
+
+h1 {font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    
+} 
+
+#paragrafo1 {
+    color: yellow;
+    
+}
+
+#paragrafo2 {
+    color: turquoise;
+    font-family: Arial, Helvetica, sans-serif;  
+    font-style: italic;
+}
+
+.alerta {
+    background-color: darksalmon;
+    margin-left: 150px;
+    border: 2px solid turquoise;
+}
+
